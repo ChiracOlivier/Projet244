@@ -13,4 +13,5 @@ public abstract class AbstractResource {
     public static void setManagerFactory(ManagerFactory pManagerFactory){
         managerFactory=pManagerFactory;
     }
+
 }
